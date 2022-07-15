@@ -1,0 +1,13 @@
+False
+False
+False
+False
+False
+False
+False
+10
+0.9278
+0.8413
+0.8405
+1.939234385045537
+1.939234385045537

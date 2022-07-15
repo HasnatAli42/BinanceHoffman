@@ -1,0 +1,13 @@
+False
+False
+False
+False
+False
+False
+False
+12
+1992.33
+1975.32
+1973.34
+0.5
+0.1
